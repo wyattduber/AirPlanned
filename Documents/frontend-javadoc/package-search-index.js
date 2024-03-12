@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.example.airplanned"},{"l":"com.example.airplanned.activity"},{"l":"com.example.airplanned.adapter"},{"l":"com.example.airplanned.api"},{"l":"com.example.airplanned.model"}]
